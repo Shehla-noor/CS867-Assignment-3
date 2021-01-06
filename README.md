@@ -61,23 +61,23 @@ intel-image-classification
 
 ### Accuracy of different Experiments performed
 | Method |Accuracy|
-|-----------------|
+| --- | --- |
 | Using Data Augmentation Setting 1 | 77.93% |
 | Using Data Augmentation Setting 2 | 81.20% |
 | Using Data Augmentation Setting 3 | 84.60% |
 | Without Using Data Augmentation | 86.47% |
 
 ### Training and Testing Accuracy
-![Training and Testing Accuracy](./data/accuracy.jpeg
+![Training and Testing Accuracy](./data/accuracy.jpeg)
 
 ### Training and Testing Loss
-![Training and Testing Loss](./data/loss.jpeg
+![Training and Testing Loss](./data/loss.jpeg)
 
 ### Confusion Matrix
-![Confusion Matrix](./data/confusion.jpeg
+![Confusion Matrix](./data/confusion.jpeg)
 
 ### Classification Report
-![Classification Report](./data/classification.jpeg
+![Classification Report](./data/classification.jpeg)
 
 ### Predictions
-![Predictions](./data/classification.jpeg
+![Predictions](./data/classification.jpeg)
