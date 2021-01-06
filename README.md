@@ -6,7 +6,7 @@ This study uses one of the pre-trained models – VGG-19 with Convolutional Neur
 
 ## Dataset
 The structure of the dataset should be like 
-'''
+```
 intel-image-classification
 |_ seg_pred
 |  |_ <im-1-name>.jpg
