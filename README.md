@@ -5,7 +5,8 @@
 This study uses one of the pre-trained models – VGG-19 with Convolutional Neural Network to classify images. Evaluation is performed on a publically available intel-image-classification dataset. This study shows that fine-tuning the pre-trained network with adaptive learning rate of 0.0001*epochs gives higher accuracy of 86.47% for image classification
 
 ## Dataset
-<img src="Data/proportion.JPG" width="300"/>
+<img src="Data/proportion.JPG" width="450"/>
+
 The structure of the dataset should be like 
 ```
 intel-image-classification
