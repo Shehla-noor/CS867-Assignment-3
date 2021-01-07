@@ -68,16 +68,16 @@ intel-image-classification
 | Without Using Data Augmentation | 86.47% |
 
 ### Training and Testing Accuracy
-<img src="Data/Accuracy.JPG" width="600"/>
+<img src="Data/Accuracy.JPG" width="300"/>
 
 ### Training and Testing Loss
-<img src="Data/Loss.JPG" width="600"/>
+<img src="Data/Loss.JPG" width="300"/>
 
 ### Confusion Matrix
-<img src="Data/Confusion_Matrix.JPG" width="600"/>
+<img src="Data/Confusion_matrix.JPG" width="300"/>
 
 ### Classification Report
-<img src="Data/Classification_Report.JPG" width="600"/>
+<img src="Data/Classification_Report.JPG" width="400"/>
 
 ### Predictions
-<img src="Data/Predictions.jpgJPG" width="600"/>
+<img src="Data/Predictions.JPG" width="800"/>
