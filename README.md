@@ -53,7 +53,7 @@ intel-image-classification
 ```
 
 ## Network Architecture
-![VGG-19 Architecture.](./data/VGG-19.jpg)
+![VGG-19 Architecture.](CS867-Assignment-3/Data/VGG-19.jpg)
 
 ## Running the Experiments
 
@@ -68,16 +68,16 @@ intel-image-classification
 | Without Using Data Augmentation | 86.47% |
 
 ### Training and Testing Accuracy
-![Training and Testing Accuracy](./Data/Accuracy.jpg)
+![Training and Testing Accuracy](CS867-Assignment-3/Data/Accuracy.jpg)
 
 ### Training and Testing Loss
-![Training and Testing Loss](./Data//Loss.jpg)
+![Training and Testing Loss](CS867-Assignment-3/Data/Loss.jpg)
 
 ### Confusion Matrix
-![Confusion Matrix](./Data/Confusion_Matrix.jpg)
+![Confusion Matrix](CS867-Assignment-3/Data/Confusion_Matrix.jpg)
 
 ### Classification Report
-![Classification Report](./Data/Classification_Report.jpg)
+![Classification Report](CS867-Assignment-3/Data/Classification_Report.jpg)
 
 ### Predictions
-![Predictions](./Data/Predictions.jpg)
+![Predictions](CS867-Assignment-3/Data/Predictions.jpg)
