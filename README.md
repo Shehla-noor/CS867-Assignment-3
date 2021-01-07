@@ -68,7 +68,7 @@ use `load_weights` method to load the pretrained weights and use them.
   * [Setting-2](https://drive.google.com/file/d/11wHduQ8I2ZHdMUgXCWrRr8qhVpuWcueV/view?usp=sharing)
   * [Setting-3](https://drive.google.com/file/d/1LwOuCZWzNuXWa5sHsFVLUTfkDx6Y0XIg/view?usp=sharing)
 * Without Data Augmentation
-  * [WithoutDataAugmentation](https://drive.google.com/file/d/1ctfcMu7IhE_2nZJapx82V6ICVJhBrbLH/view?usp=sharing)
+  * [WithoutDataAugmentation](https://drive.google.com/file/d/1ctfcMu7IhE_2nZJapx82V6ICVJhBrbLH/view?usp=sharing) Note that these are the weights of `CV_Assignment_03.ipynb`. 
   
 * Following are the snapshots of the three Settings for with-data-augmentation technique:
   * <img src="Data/setting-1.JPG" width="450"/> <img src="Data/setting-2.JPG" width="450"/> <img src="Data/setting-3.JPG" width="300"/> 
