@@ -2,9 +2,10 @@
 ![Tensorflow >=2.0](https://img.shields.io/badge/Tensorflow->=2.0-yellow.svg)
 
 # ICCTL: Image Classification using CNNs and Transfer Learning
-This study uses one of the pre-trained models – VGG-19 with Convolutional Neural Network to classify images. Evaluation is performed on a publically available intel-image-classification dataset. This study shows that fine-tuning the pre-trained network with adaptive learning rate of 0.0001*epochs gives higher accuracy of 86.47% for image classification
+In this project one of the pre-trained models – VGG-19 with Convolutional Neural Network was used to classify images. Evaluation is performed on a publically available intel-image-classification dataset. This study shows that fine-tuning the pre-trained network with adaptive learning rate of 0.0001×epochs gives higher accuracy of 86.47% for image classification
 
 ## Dataset
+Dataset can be downloaded from [Intel-Image-Classification.](https://www.kaggle.com/puneet6060/intel-image-classification/version/2)  
 Intel-Image-Classification dataset consists of 150x150 images of 6 classes with 14034 training images, 3000 testing images and 7301 prediction images. Figure 2 (a) shows percentage of each category in training dataset and Figure.2 (b) shows a division of dataset into training and testing. 
 <img src="Data/proportion.JPG" width="450"/>
 
@@ -56,13 +57,14 @@ intel-image-classification
 ```
 
 ## Network Architecture
-VGG-19 is used as a backbone architecture with pre-trained weights on ImageNet. Figure.1 shows the convo-lutional layer structure of VGG-19 architecture.  
+VGG-19 is used as a backbone architecture with pre-trained weights on ImageNet. Figure.1 shows the convolutional layer structure of VGG-19 architecture.  
 <img src="Data/VGG-19.JPG" width="600"/>
 
 ## Running the Experiments
-Experiments are done using with and without data augmentation.Following are the trained weights for different experiments, performed:  
+Experiments are done using with and without data augmentation. Following are the trained weights for different experiments, performed. Download the weights and then 
+use `load_weights` method to load the pretrained weights and use them. 
 * With Data Augmentation
-  * [Setting-1]() 
+  * [Setting-1](https://drive.google.com/file/d/1CsI1dsks5M60hdPMirtFJiMhYLKSFek8/view?usp=sharing) 
   * [Setting-2]()
   * [Setting-3](https://drive.google.com/file/d/1LwOuCZWzNuXWa5sHsFVLUTfkDx6Y0XIg/view?usp=sharing)
 * Without Data Augmentation
@@ -86,7 +88,7 @@ with-out-data-augmentation gives higher accuracy of 86.47%. `CV_Assignment_03.ip
 | Without Using Data Augmentation | 86.47% |
 
 ### Training and Testing Accuracy and Loss
-Figure. 4 (a) and (b) shows Accuracy and Loss respec-tively over the epochs for the proposed model. It can be observed that the training accuracy is reaching gradually
+Figure. 4 (a) and (b) shows Accuracy and Loss respectively over the epochs for the proposed model. It can be observed that the training accuracy is reaching gradually
 to 95.47% and testing accuracy to 86.47%. Whereas, loss is gradually decreasing in each epoch over 10 epochs and then training stops due to early stopping. 
 
 <img src="Data/Accuracy.JPG" width="300"/> <img src="Data/Loss.JPG" width="300"/>
