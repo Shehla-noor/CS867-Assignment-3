@@ -65,7 +65,7 @@ Experiments are done using with and without data augmentation. Following are the
 use `load_weights` method to load the pretrained weights and use them. 
 * With Data Augmentation
   * [Setting-1](https://drive.google.com/file/d/1CsI1dsks5M60hdPMirtFJiMhYLKSFek8/view?usp=sharing) 
-  * [Setting-2]()
+  * [Setting-2](https://drive.google.com/file/d/11wHduQ8I2ZHdMUgXCWrRr8qhVpuWcueV/view?usp=sharing)
   * [Setting-3](https://drive.google.com/file/d/1LwOuCZWzNuXWa5sHsFVLUTfkDx6Y0XIg/view?usp=sharing)
 * Without Data Augmentation
   * [WithoutDataAugmentation](https://drive.google.com/file/d/1ctfcMu7IhE_2nZJapx82V6ICVJhBrbLH/view?usp=sharing)
