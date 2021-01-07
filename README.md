@@ -72,7 +72,7 @@ Experiments are done using with and without data augmentation.Following are the 
   * <img src="Data/setting-1.JPG" width="450"/> <img src="Data/setting-2.JPG" width="450"/> <img src="Data/setting-3.JPG" width="300"/> 
 * `CV_Assignment_03.ipynb` is the file containing without-data-augmentation technique.
 
-### Results
+## Results
 
 ### Accuracy of different Experiments performed
 The following table shows the accuracy obtained after carrying out the tests. It is evident that for Intel-Image-Classification dataset using VGG-19 architecture, 
@@ -91,7 +91,7 @@ to 95.47% and testing accuracy to 86.47%. Whereas, loss is gradually decreasing 
 
 <img src="Data/Accuracy.JPG" width="300"/> <img src="Data/Loss.JPG" width="300"/>
 
-### Confusion Matrix
+### Confusion Matrix & Classification Report
 Figure.5 shows confusion matrix and Figure.6 shows classification report of the proposed model.
 
 <img src="Data/Confusion_matrix.JPG" width="300"/>
