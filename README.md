@@ -69,9 +69,7 @@ Experiments are done using with and without data augmentation.Following are the 
   * [WithoutDataAugmentation](https://drive.google.com/file/d/1ctfcMu7IhE_2nZJapx82V6ICVJhBrbLH/view?usp=sharing)
   
 * Following are the snapshots of the three Settings for with-data-augmentation technique:
-  * <img src="Data/setting-1.JPG" width="300"/> <img src="Data/Loss.JPG" width="300"/>
-  * <img src="Data/setting-2.JPG" width="300"/> <img src="Data/Loss.JPG" width="300"/>
-  * <img src="Data/setting-3.JPG" width="300"/> <img src="Data/Loss.JPG" width="300"/>
+  * <img src="Data/setting-1.JPG" width="450"/> <img src="Data/setting-2.JPG" width="450"/> <img src="Data/setting-3.JPG" width="300"/> 
 * `CV_Assignment_03.ipynb` is the file containing without-data-augmentation technique.
 
 ### Results
